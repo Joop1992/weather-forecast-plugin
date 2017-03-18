@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: joop.student.hu.nl
+OpenIDE-Module-Localizing-Bundle: joop/student/hu/nl/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

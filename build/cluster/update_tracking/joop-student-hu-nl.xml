@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="joop.student.hu.nl">
+    <module_version install_time="1489848846957" last="true" origin="installer" specification_version="1.0">
+        <file crc="1349904484" name="config/Modules/joop-student-hu-nl.xml"/>
+        <file crc="3385096118" name="modules/ext/gson-2.3.1.jar"/>
+        <file crc="1775904482" name="modules/ext/json-20140107.jar"/>
+        <file crc="975375616" name="modules/joop-student-hu-nl.jar"/>
+    </module_version>
+</module>
